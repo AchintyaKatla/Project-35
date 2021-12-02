@@ -7,4 +7,3 @@ Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFil
 
 ### Import database.json file to the realtime database. 
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/AirBalloonRide/
